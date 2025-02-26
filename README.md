@@ -160,16 +160,16 @@ if __name__ == '__main__':
   - Any challenges you encountered while implementing the protocol.
   
 - **Demonstration:**  
-  Include screenshots or logs showing successful connections to the provided server for both TCP and UDP protocols.
+  Include screenshots or logs showing successful connections to the provided server for both TCP and UDP protocols.  The below is an example:
 
-  ![alt text](image.png)
+  <img width="722" alt="image" src="https://github.com/user-attachments/assets/fb870ebe-374f-4b00-85b7-6b08be52efc7" />
+
 
 ---
 
 ## Summary
-
-- **For Students:**  
-  You are to implement client applications using the provided skeleton code. Ensure that your TCP client follows the multi-step protocol (sending `"HELLO"`, `"DATA: <username>"`, and `"BYE"` in sequence) and that your UDP client sends your username correctly. Test your programs locally before connecting to the instructor’s server.
+ 
+You are to implement client applications using the provided skeleton code. Ensure that your TCP client follows the multi-step protocol (sending `"HELLO"`, `"DATA: <username>"`, and `"BYE"` in sequence) and that your UDP client sends your username correctly. Test your programs locally before connecting to the instructor’s server.
 
 
 Good luck with your assignment, and happy coding!
