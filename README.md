@@ -1,6 +1,4 @@
-Below is a complete project document that includes both the assignment requirements with skeleton code (one file) for your students’ TCP/UDP client programs, as well as a full server (listener) program that you can host for testing.
 
----
 
 # Socket Programming Assignment: TCP and UDP Clients
 
